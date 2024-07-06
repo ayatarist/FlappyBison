@@ -9,10 +9,10 @@ Semester: Spring
 ## Team Information 
 Team 8: King's Queens
 
-(Scrum Master) -Angel Sousani: Sophomore, Major: Psychology   
-(Developer) - Aya Tarist: Sophomore, Major: Computer Science Engineer
-(Developer) - Marina Anglo: Sophomore, Major: Computer Science
-(Project Manager) -Thao Nguyen: Sophomore, Major: Computer Science, Film Studies
+Angel Sousani: Sophomore, Major: Psychology   
+Aya Tarist: Sophomore, Major: Computer Science Engineer
+Marina Anglo: Sophomore, Major: Computer Science
+Thao Nguyen: Sophomore, Major: Computer Science, Film Studies
 
 ## Project Information
 SUMMARY
